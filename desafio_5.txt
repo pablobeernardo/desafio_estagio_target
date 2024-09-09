@@ -1,0 +1,7 @@
+Ligo o primeiro interruptor e deixo ligado por alguns minutos.
+Desligo o primeiro interruptor e ligo o segundo.
+
+Vou até a sala das lâmpadas pela primeira vez:
+- A lâmpada acesa corresponde ao segundo interruptor.
+- A lâmpada apagada que está quente corresponde ao primeiro interruptor.
+- A lâmpada apagada e fria corresponde ao terceiro interruptor.
